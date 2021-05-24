@@ -29,8 +29,6 @@ Hi! I'm Juan Cruz, a full-stack software developer. I'm currently working as a s
 
 ## 💡 *Some of my projects*
 
-<table><tr><td valign="top">
-
 ### University Courses
 
 - [Operating Systems](https://github.com/jcvincenti/Sistemas-Operativos) - (Python)
@@ -43,14 +41,8 @@ Hi! I'm Juan Cruz, a full-stack software developer. I'm currently working as a s
   - [Front-end](https://github.com/jcvincenti/UNQTradingFE) (React JS | Material UI)
 - [Object Oriented Programming 2](https://github.com/jcvincenti/Cientopolis) (Java)
 
-</td></tr></table>
-
-<table><tr><td valign="top">
-
 ### Personal
 
 - #### University progress tracker
   - [Front-end](https://github.com/jcvincenti/SeguimientoDeMaterias) (React JS | Material UI)
   - [API](https://github.com/jcvincenti/track-your-progress-api) (Node JS | Express JS)
-
-</td></tr></table>
