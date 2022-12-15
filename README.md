@@ -1,7 +1,7 @@
 # Juan Cruz Vincenti | @jcvincenti
 
 ## 👋🏼 *A little about me*
-Hi! I'm Juan Cruz, a full-stack software developer. I'm currently working as a software developer at [Avature](https://www.avature.net/) and studying Computer Science at the [National University of Quilmes](http://www.unq.edu.ar/) 📚
+Hi! I'm Juan Cruz, a full-stack software developer. I'm currently working as a software engineer at [Zumba](https://www.zumba.com/) and studying Computer Science at the [National University of Quilmes](http://www.unq.edu.ar/) 📚
 
 
 ## 💻 *Stack I usually use*
@@ -41,9 +41,3 @@ Hi! I'm Juan Cruz, a full-stack software developer. I'm currently working as a s
   - [Front-end](https://github.com/jcvincenti/UNQTradingFE) (React JS | Material UI)
 - [Object Oriented Programming 2](https://github.com/jcvincenti/Cientopolis) (Java)
 - [Apps Development (WIP)](https://github.com/jcvincenti/DesApp-Grupo-C-012022) (Kotlin | SpringBoot | MySQL | Swagger | Travis | SonarCloud | Heroku)
-
-### Personal
-
-- #### University progress tracker
-  - [Front-end](https://github.com/jcvincenti/SeguimientoDeMaterias) (React JS | Material UI)
-  - [API](https://github.com/jcvincenti/track-your-progress-api) (Node JS | Express JS)
