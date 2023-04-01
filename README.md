@@ -26,10 +26,7 @@ Hi! I'm Juan Cruz, a full-stack software developer. I'm currently working as a s
 - Cucumber/Behat
 - Mockito
 
-
-## 💡 *Some of my projects*
-
-### University Courses
+### University Projects/Courses
 
 - [Operating Systems](https://github.com/jcvincenti/Sistemas-Operativos) - (Python)
 - [Video Games](https://github.com/jcvincenti/IntroPV) - (Godot)
@@ -40,4 +37,4 @@ Hi! I'm Juan Cruz, a full-stack software developer. I'm currently working as a s
   - [Back-end](https://github.com/jcvincenti/UNQTradingBE) (Kotlin | Spring | MySQL | Swagger | Cucumber)
   - [Front-end](https://github.com/jcvincenti/UNQTradingFE) (React JS | Material UI)
 - [Object Oriented Programming 2](https://github.com/jcvincenti/Cientopolis) (Java)
-- [Apps Development (WIP)](https://github.com/jcvincenti/DesApp-Grupo-C-012022) (Kotlin | SpringBoot | MySQL | Swagger | Travis | SonarCloud | Heroku)
+- [Apps Development](https://github.com/jcvincenti/DesApp-Grupo-C-012022) (Kotlin | SpringBoot | MySQL | Travis | Swagger | SonarCloud | Heroku)
