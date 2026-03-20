@@ -1,7 +1,7 @@
 # Juan Cruz Vincenti | @jcvincenti
 
 ## 👋🏼 *A little about me*
-Hi! I'm Juan Cruz, a full-stack software developer. I'm currently working as a software engineer at [Zumba](https://www.zumba.com/) and studying Computer Science at the [National University of Quilmes](http://www.unq.edu.ar/) 📚
+Hi! I'm Juan Cruz, a full-stack software developer. I'm currently working as a SR. Software Engineer at [Zumba](https://www.zumba.com/).
 
 
 ## 💻 *Stack I usually use*
@@ -11,18 +11,19 @@ Hi! I'm Juan Cruz, a full-stack software developer. I'm currently working as a s
 - PHP
 - ExpressJs
 - Python (Just for scripting)
-- Docker Compose
+- Docker/Docker Composer
 - Nginx
+- MySQL
+- Redis
 
 **Front-end**
 - React JS
-- Axios
-- Jquery
-- HTML 5
+- Vue JS
 - CSS 3
 - Bootstrap/Material Design
 
 **Testing**
+- PHPUnit
 - Cucumber/Behat
 - Mockito
 
